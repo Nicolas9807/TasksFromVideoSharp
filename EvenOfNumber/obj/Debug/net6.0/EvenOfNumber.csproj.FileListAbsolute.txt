@@ -1,0 +1,15 @@
+D:\Projects\Tasks\EvenOfNumber\bin\Debug\net6.0\EvenOfNumber.exe
+D:\Projects\Tasks\EvenOfNumber\bin\Debug\net6.0\EvenOfNumber.deps.json
+D:\Projects\Tasks\EvenOfNumber\bin\Debug\net6.0\EvenOfNumber.runtimeconfig.json
+D:\Projects\Tasks\EvenOfNumber\bin\Debug\net6.0\EvenOfNumber.dll
+D:\Projects\Tasks\EvenOfNumber\bin\Debug\net6.0\EvenOfNumber.pdb
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\EvenOfNumber.csproj.AssemblyReference.cache
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\EvenOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\EvenOfNumber.AssemblyInfoInputs.cache
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\EvenOfNumber.AssemblyInfo.cs
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\EvenOfNumber.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\EvenOfNumber.dll
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\refint\EvenOfNumber.dll
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\EvenOfNumber.pdb
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\EvenOfNumber.genruntimeconfig.cache
+D:\Projects\Tasks\EvenOfNumber\obj\Debug\net6.0\ref\EvenOfNumber.dll

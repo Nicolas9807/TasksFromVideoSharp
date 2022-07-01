@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Geometric\bin\Debug\net6.0\Geometric.exe
+D:\Projects\Tasks\Geometric\bin\Debug\net6.0\Geometric.deps.json
+D:\Projects\Tasks\Geometric\bin\Debug\net6.0\Geometric.runtimeconfig.json
+D:\Projects\Tasks\Geometric\bin\Debug\net6.0\Geometric.dll
+D:\Projects\Tasks\Geometric\bin\Debug\net6.0\Geometric.pdb
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\Geometric.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\Geometric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\Geometric.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\Geometric.AssemblyInfo.cs
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\Geometric.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\Geometric.dll
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\refint\Geometric.dll
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\Geometric.pdb
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\Geometric.genruntimeconfig.cache
+D:\Projects\Tasks\Geometric\obj\Debug\net6.0\ref\Geometric.dll

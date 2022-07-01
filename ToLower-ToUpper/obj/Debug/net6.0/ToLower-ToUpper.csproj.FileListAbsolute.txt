@@ -1,0 +1,15 @@
+D:\Projects\Tasks\ToLower-ToUpper\bin\Debug\net6.0\ToLower-ToUpper.exe
+D:\Projects\Tasks\ToLower-ToUpper\bin\Debug\net6.0\ToLower-ToUpper.deps.json
+D:\Projects\Tasks\ToLower-ToUpper\bin\Debug\net6.0\ToLower-ToUpper.runtimeconfig.json
+D:\Projects\Tasks\ToLower-ToUpper\bin\Debug\net6.0\ToLower-ToUpper.dll
+D:\Projects\Tasks\ToLower-ToUpper\bin\Debug\net6.0\ToLower-ToUpper.pdb
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ToLower-ToUpper.csproj.AssemblyReference.cache
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ToLower-ToUpper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ToLower-ToUpper.AssemblyInfoInputs.cache
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ToLower-ToUpper.AssemblyInfo.cs
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ToLower-ToUpper.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ToLower-ToUpper.dll
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\refint\ToLower-ToUpper.dll
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ToLower-ToUpper.pdb
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ToLower-ToUpper.genruntimeconfig.cache
+D:\Projects\Tasks\ToLower-ToUpper\obj\Debug\net6.0\ref\ToLower-ToUpper.dll

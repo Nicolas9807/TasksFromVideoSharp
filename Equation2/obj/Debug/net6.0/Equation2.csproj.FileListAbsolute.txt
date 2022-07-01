@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Equation2\bin\Debug\net6.0\Equation2.exe
+D:\Projects\Tasks\Equation2\bin\Debug\net6.0\Equation2.deps.json
+D:\Projects\Tasks\Equation2\bin\Debug\net6.0\Equation2.runtimeconfig.json
+D:\Projects\Tasks\Equation2\bin\Debug\net6.0\Equation2.dll
+D:\Projects\Tasks\Equation2\bin\Debug\net6.0\Equation2.pdb
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\Equation2.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\Equation2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\Equation2.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\Equation2.AssemblyInfo.cs
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\Equation2.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\Equation2.dll
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\refint\Equation2.dll
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\Equation2.pdb
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\Equation2.genruntimeconfig.cache
+D:\Projects\Tasks\Equation2\obj\Debug\net6.0\ref\Equation2.dll

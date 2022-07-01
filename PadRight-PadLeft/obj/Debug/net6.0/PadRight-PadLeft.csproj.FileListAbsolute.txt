@@ -1,0 +1,15 @@
+D:\Projects\Tasks\PadRight-PadLeft\bin\Debug\net6.0\PadRight-PadLeft.exe
+D:\Projects\Tasks\PadRight-PadLeft\bin\Debug\net6.0\PadRight-PadLeft.deps.json
+D:\Projects\Tasks\PadRight-PadLeft\bin\Debug\net6.0\PadRight-PadLeft.runtimeconfig.json
+D:\Projects\Tasks\PadRight-PadLeft\bin\Debug\net6.0\PadRight-PadLeft.dll
+D:\Projects\Tasks\PadRight-PadLeft\bin\Debug\net6.0\PadRight-PadLeft.pdb
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\PadRight-PadLeft.csproj.AssemblyReference.cache
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\PadRight-PadLeft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\PadRight-PadLeft.AssemblyInfoInputs.cache
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\PadRight-PadLeft.AssemblyInfo.cs
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\PadRight-PadLeft.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\PadRight-PadLeft.dll
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\refint\PadRight-PadLeft.dll
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\PadRight-PadLeft.pdb
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\PadRight-PadLeft.genruntimeconfig.cache
+D:\Projects\Tasks\PadRight-PadLeft\obj\Debug\net6.0\ref\PadRight-PadLeft.dll

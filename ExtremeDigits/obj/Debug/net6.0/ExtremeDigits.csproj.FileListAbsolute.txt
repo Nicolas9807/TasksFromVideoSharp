@@ -1,0 +1,15 @@
+D:\Projects\Tasks\ExtremeDigits\bin\Debug\net6.0\ExtremeDigits.exe
+D:\Projects\Tasks\ExtremeDigits\bin\Debug\net6.0\ExtremeDigits.deps.json
+D:\Projects\Tasks\ExtremeDigits\bin\Debug\net6.0\ExtremeDigits.runtimeconfig.json
+D:\Projects\Tasks\ExtremeDigits\bin\Debug\net6.0\ExtremeDigits.dll
+D:\Projects\Tasks\ExtremeDigits\bin\Debug\net6.0\ExtremeDigits.pdb
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ExtremeDigits.csproj.AssemblyReference.cache
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ExtremeDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ExtremeDigits.AssemblyInfoInputs.cache
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ExtremeDigits.AssemblyInfo.cs
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ExtremeDigits.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ExtremeDigits.dll
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\refint\ExtremeDigits.dll
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ExtremeDigits.pdb
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ExtremeDigits.genruntimeconfig.cache
+D:\Projects\Tasks\ExtremeDigits\obj\Debug\net6.0\ref\ExtremeDigits.dll

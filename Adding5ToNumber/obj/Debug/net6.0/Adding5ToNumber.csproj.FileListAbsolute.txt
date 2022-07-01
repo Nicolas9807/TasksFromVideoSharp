@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Adding5ToNumber\bin\Debug\net6.0\Adding5ToNumber.exe
+D:\Projects\Tasks\Adding5ToNumber\bin\Debug\net6.0\Adding5ToNumber.deps.json
+D:\Projects\Tasks\Adding5ToNumber\bin\Debug\net6.0\Adding5ToNumber.runtimeconfig.json
+D:\Projects\Tasks\Adding5ToNumber\bin\Debug\net6.0\Adding5ToNumber.dll
+D:\Projects\Tasks\Adding5ToNumber\bin\Debug\net6.0\Adding5ToNumber.pdb
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\Adding5ToNumber.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\Adding5ToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\Adding5ToNumber.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\Adding5ToNumber.AssemblyInfo.cs
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\Adding5ToNumber.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\Adding5ToNumber.dll
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\refint\Adding5ToNumber.dll
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\Adding5ToNumber.pdb
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\Adding5ToNumber.genruntimeconfig.cache
+D:\Projects\Tasks\Adding5ToNumber\obj\Debug\net6.0\ref\Adding5ToNumber.dll

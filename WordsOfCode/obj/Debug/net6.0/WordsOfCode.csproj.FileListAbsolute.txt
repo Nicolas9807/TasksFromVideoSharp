@@ -1,0 +1,15 @@
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\WordsOfCode.csproj.AssemblyReference.cache
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\WordsOfCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\WordsOfCode.AssemblyInfoInputs.cache
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\WordsOfCode.AssemblyInfo.cs
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\WordsOfCode.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\WordsOfCode\bin\Debug\net6.0\WordsOfCode.exe
+D:\Projects\Tasks\WordsOfCode\bin\Debug\net6.0\WordsOfCode.deps.json
+D:\Projects\Tasks\WordsOfCode\bin\Debug\net6.0\WordsOfCode.runtimeconfig.json
+D:\Projects\Tasks\WordsOfCode\bin\Debug\net6.0\WordsOfCode.dll
+D:\Projects\Tasks\WordsOfCode\bin\Debug\net6.0\WordsOfCode.pdb
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\WordsOfCode.dll
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\refint\WordsOfCode.dll
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\WordsOfCode.pdb
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\WordsOfCode.genruntimeconfig.cache
+D:\Projects\Tasks\WordsOfCode\obj\Debug\net6.0\ref\WordsOfCode.dll

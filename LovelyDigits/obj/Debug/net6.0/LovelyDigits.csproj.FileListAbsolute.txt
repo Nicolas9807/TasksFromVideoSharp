@@ -1,0 +1,15 @@
+D:\Projects\Tasks\LovelyDigits\bin\Debug\net6.0\LovelyDigits.exe
+D:\Projects\Tasks\LovelyDigits\bin\Debug\net6.0\LovelyDigits.deps.json
+D:\Projects\Tasks\LovelyDigits\bin\Debug\net6.0\LovelyDigits.runtimeconfig.json
+D:\Projects\Tasks\LovelyDigits\bin\Debug\net6.0\LovelyDigits.dll
+D:\Projects\Tasks\LovelyDigits\bin\Debug\net6.0\LovelyDigits.pdb
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\LovelyDigits.csproj.AssemblyReference.cache
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\LovelyDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\LovelyDigits.AssemblyInfoInputs.cache
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\LovelyDigits.AssemblyInfo.cs
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\LovelyDigits.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\LovelyDigits.dll
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\refint\LovelyDigits.dll
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\LovelyDigits.pdb
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\LovelyDigits.genruntimeconfig.cache
+D:\Projects\Tasks\LovelyDigits\obj\Debug\net6.0\ref\LovelyDigits.dll

@@ -1,0 +1,15 @@
+D:\Projects\Tasks\SecondFraction\bin\Debug\net6.0\SecondFraction.exe
+D:\Projects\Tasks\SecondFraction\bin\Debug\net6.0\SecondFraction.deps.json
+D:\Projects\Tasks\SecondFraction\bin\Debug\net6.0\SecondFraction.runtimeconfig.json
+D:\Projects\Tasks\SecondFraction\bin\Debug\net6.0\SecondFraction.dll
+D:\Projects\Tasks\SecondFraction\bin\Debug\net6.0\SecondFraction.pdb
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\SecondFraction.csproj.AssemblyReference.cache
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\SecondFraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\SecondFraction.AssemblyInfoInputs.cache
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\SecondFraction.AssemblyInfo.cs
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\SecondFraction.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\SecondFraction.dll
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\refint\SecondFraction.dll
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\SecondFraction.pdb
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\SecondFraction.genruntimeconfig.cache
+D:\Projects\Tasks\SecondFraction\obj\Debug\net6.0\ref\SecondFraction.dll

@@ -1,0 +1,15 @@
+D:\Projects\Tasks\DayOfDate\bin\Debug\net6.0\DayOfDate.exe
+D:\Projects\Tasks\DayOfDate\bin\Debug\net6.0\DayOfDate.deps.json
+D:\Projects\Tasks\DayOfDate\bin\Debug\net6.0\DayOfDate.runtimeconfig.json
+D:\Projects\Tasks\DayOfDate\bin\Debug\net6.0\DayOfDate.dll
+D:\Projects\Tasks\DayOfDate\bin\Debug\net6.0\DayOfDate.pdb
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\DayOfDate.csproj.AssemblyReference.cache
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\DayOfDate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\DayOfDate.AssemblyInfoInputs.cache
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\DayOfDate.AssemblyInfo.cs
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\DayOfDate.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\DayOfDate.dll
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\refint\DayOfDate.dll
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\DayOfDate.pdb
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\DayOfDate.genruntimeconfig.cache
+D:\Projects\Tasks\DayOfDate\obj\Debug\net6.0\ref\DayOfDate.dll

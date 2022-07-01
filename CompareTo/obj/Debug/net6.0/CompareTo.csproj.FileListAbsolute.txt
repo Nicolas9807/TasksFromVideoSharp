@@ -1,0 +1,15 @@
+D:\Projects\Tasks\CompareTo\bin\Debug\net6.0\CompareTo.exe
+D:\Projects\Tasks\CompareTo\bin\Debug\net6.0\CompareTo.deps.json
+D:\Projects\Tasks\CompareTo\bin\Debug\net6.0\CompareTo.runtimeconfig.json
+D:\Projects\Tasks\CompareTo\bin\Debug\net6.0\CompareTo.dll
+D:\Projects\Tasks\CompareTo\bin\Debug\net6.0\CompareTo.pdb
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\CompareTo.csproj.AssemblyReference.cache
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\CompareTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\CompareTo.AssemblyInfoInputs.cache
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\CompareTo.AssemblyInfo.cs
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\CompareTo.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\CompareTo.dll
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\refint\CompareTo.dll
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\CompareTo.pdb
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\CompareTo.genruntimeconfig.cache
+D:\Projects\Tasks\CompareTo\obj\Debug\net6.0\ref\CompareTo.dll

@@ -1,0 +1,15 @@
+D:\Projects\Tasks\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.exe
+D:\Projects\Tasks\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.deps.json
+D:\Projects\Tasks\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.runtimeconfig.json
+D:\Projects\Tasks\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.dll
+D:\Projects\Tasks\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.pdb
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.csproj.AssemblyReference.cache
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.AssemblyInfoInputs.cache
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.AssemblyInfo.cs
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.dll
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\refint\AreaOfCircle.dll
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.pdb
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.genruntimeconfig.cache
+D:\Projects\Tasks\AreaOfCircle\obj\Debug\net6.0\ref\AreaOfCircle.dll

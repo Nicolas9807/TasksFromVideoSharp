@@ -1,0 +1,15 @@
+D:\Projects\Tasks\EndOfMonth\bin\Debug\net6.0\EndOfMonth.exe
+D:\Projects\Tasks\EndOfMonth\bin\Debug\net6.0\EndOfMonth.deps.json
+D:\Projects\Tasks\EndOfMonth\bin\Debug\net6.0\EndOfMonth.runtimeconfig.json
+D:\Projects\Tasks\EndOfMonth\bin\Debug\net6.0\EndOfMonth.dll
+D:\Projects\Tasks\EndOfMonth\bin\Debug\net6.0\EndOfMonth.pdb
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\EndOfMonth.csproj.AssemblyReference.cache
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\EndOfMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\EndOfMonth.AssemblyInfoInputs.cache
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\EndOfMonth.AssemblyInfo.cs
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\EndOfMonth.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\EndOfMonth.dll
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\refint\EndOfMonth.dll
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\EndOfMonth.pdb
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\EndOfMonth.genruntimeconfig.cache
+D:\Projects\Tasks\EndOfMonth\obj\Debug\net6.0\ref\EndOfMonth.dll

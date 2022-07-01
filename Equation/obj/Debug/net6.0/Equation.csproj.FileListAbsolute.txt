@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Equation\bin\Debug\net6.0\Equation.exe
+D:\Projects\Tasks\Equation\bin\Debug\net6.0\Equation.deps.json
+D:\Projects\Tasks\Equation\bin\Debug\net6.0\Equation.runtimeconfig.json
+D:\Projects\Tasks\Equation\bin\Debug\net6.0\Equation.dll
+D:\Projects\Tasks\Equation\bin\Debug\net6.0\Equation.pdb
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\Equation.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\Equation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\Equation.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\Equation.AssemblyInfo.cs
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\Equation.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\Equation.dll
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\refint\Equation.dll
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\Equation.pdb
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\Equation.genruntimeconfig.cache
+D:\Projects\Tasks\Equation\obj\Debug\net6.0\ref\Equation.dll

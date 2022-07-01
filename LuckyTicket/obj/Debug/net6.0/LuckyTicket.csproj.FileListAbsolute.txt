@@ -1,0 +1,15 @@
+D:\Projects\Tasks\LuckyTicket\bin\Debug\net6.0\LuckyTicket.exe
+D:\Projects\Tasks\LuckyTicket\bin\Debug\net6.0\LuckyTicket.deps.json
+D:\Projects\Tasks\LuckyTicket\bin\Debug\net6.0\LuckyTicket.runtimeconfig.json
+D:\Projects\Tasks\LuckyTicket\bin\Debug\net6.0\LuckyTicket.dll
+D:\Projects\Tasks\LuckyTicket\bin\Debug\net6.0\LuckyTicket.pdb
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\LuckyTicket.csproj.AssemblyReference.cache
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\LuckyTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\LuckyTicket.AssemblyInfoInputs.cache
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\LuckyTicket.AssemblyInfo.cs
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\LuckyTicket.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\LuckyTicket.dll
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\refint\LuckyTicket.dll
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\LuckyTicket.pdb
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\LuckyTicket.genruntimeconfig.cache
+D:\Projects\Tasks\LuckyTicket\obj\Debug\net6.0\ref\LuckyTicket.dll

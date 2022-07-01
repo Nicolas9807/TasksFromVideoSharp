@@ -1,0 +1,15 @@
+D:\Projects\Tasks\ReverseNumber\bin\Debug\net6.0\ReverseNumber.exe
+D:\Projects\Tasks\ReverseNumber\bin\Debug\net6.0\ReverseNumber.deps.json
+D:\Projects\Tasks\ReverseNumber\bin\Debug\net6.0\ReverseNumber.runtimeconfig.json
+D:\Projects\Tasks\ReverseNumber\bin\Debug\net6.0\ReverseNumber.dll
+D:\Projects\Tasks\ReverseNumber\bin\Debug\net6.0\ReverseNumber.pdb
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ReverseNumber.csproj.AssemblyReference.cache
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ReverseNumber.AssemblyInfoInputs.cache
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ReverseNumber.AssemblyInfo.cs
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ReverseNumber.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ReverseNumber.dll
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\refint\ReverseNumber.dll
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ReverseNumber.pdb
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ReverseNumber.genruntimeconfig.cache
+D:\Projects\Tasks\ReverseNumber\obj\Debug\net6.0\ref\ReverseNumber.dll

@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Fifth\bin\Debug\net6.0\Fifth.exe
+D:\Projects\Tasks\Fifth\bin\Debug\net6.0\Fifth.deps.json
+D:\Projects\Tasks\Fifth\bin\Debug\net6.0\Fifth.runtimeconfig.json
+D:\Projects\Tasks\Fifth\bin\Debug\net6.0\Fifth.dll
+D:\Projects\Tasks\Fifth\bin\Debug\net6.0\Fifth.pdb
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\Fifth.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\Fifth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\Fifth.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\Fifth.AssemblyInfo.cs
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\Fifth.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\Fifth.dll
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\refint\Fifth.dll
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\Fifth.pdb
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\Fifth.genruntimeconfig.cache
+D:\Projects\Tasks\Fifth\obj\Debug\net6.0\ref\Fifth.dll

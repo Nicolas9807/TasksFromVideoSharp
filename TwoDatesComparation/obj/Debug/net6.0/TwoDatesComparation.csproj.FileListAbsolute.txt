@@ -1,0 +1,15 @@
+D:\Projects\Tasks\TwoDatesComparation\bin\Debug\net6.0\TwoDatesComparation.exe
+D:\Projects\Tasks\TwoDatesComparation\bin\Debug\net6.0\TwoDatesComparation.deps.json
+D:\Projects\Tasks\TwoDatesComparation\bin\Debug\net6.0\TwoDatesComparation.runtimeconfig.json
+D:\Projects\Tasks\TwoDatesComparation\bin\Debug\net6.0\TwoDatesComparation.dll
+D:\Projects\Tasks\TwoDatesComparation\bin\Debug\net6.0\TwoDatesComparation.pdb
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\TwoDatesComparation.csproj.AssemblyReference.cache
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\TwoDatesComparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\TwoDatesComparation.AssemblyInfoInputs.cache
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\TwoDatesComparation.AssemblyInfo.cs
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\TwoDatesComparation.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\TwoDatesComparation.dll
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\refint\TwoDatesComparation.dll
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\TwoDatesComparation.pdb
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\TwoDatesComparation.genruntimeconfig.cache
+D:\Projects\Tasks\TwoDatesComparation\obj\Debug\net6.0\ref\TwoDatesComparation.dll

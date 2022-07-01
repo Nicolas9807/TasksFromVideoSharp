@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Vector\bin\Debug\net6.0\Vector.exe
+D:\Projects\Tasks\Vector\bin\Debug\net6.0\Vector.deps.json
+D:\Projects\Tasks\Vector\bin\Debug\net6.0\Vector.runtimeconfig.json
+D:\Projects\Tasks\Vector\bin\Debug\net6.0\Vector.dll
+D:\Projects\Tasks\Vector\bin\Debug\net6.0\Vector.pdb
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\Vector.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\Vector.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\Vector.AssemblyInfo.cs
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\Vector.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\Vector.dll
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\refint\Vector.dll
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\Vector.pdb
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\Vector.genruntimeconfig.cache
+D:\Projects\Tasks\Vector\obj\Debug\net6.0\ref\Vector.dll

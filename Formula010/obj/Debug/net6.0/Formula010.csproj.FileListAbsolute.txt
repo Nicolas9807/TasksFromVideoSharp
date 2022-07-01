@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Formula010\bin\Debug\net6.0\Formula010.exe
+D:\Projects\Tasks\Formula010\bin\Debug\net6.0\Formula010.deps.json
+D:\Projects\Tasks\Formula010\bin\Debug\net6.0\Formula010.runtimeconfig.json
+D:\Projects\Tasks\Formula010\bin\Debug\net6.0\Formula010.dll
+D:\Projects\Tasks\Formula010\bin\Debug\net6.0\Formula010.pdb
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\Formula010.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\Formula010.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\Formula010.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\Formula010.AssemblyInfo.cs
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\Formula010.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\Formula010.dll
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\refint\Formula010.dll
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\Formula010.pdb
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\Formula010.genruntimeconfig.cache
+D:\Projects\Tasks\Formula010\obj\Debug\net6.0\ref\Formula010.dll

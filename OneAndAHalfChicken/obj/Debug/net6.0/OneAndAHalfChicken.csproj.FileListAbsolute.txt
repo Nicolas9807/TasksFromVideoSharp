@@ -1,0 +1,15 @@
+D:\Projects\Tasks\OneAndAHalfChicken\bin\Debug\net6.0\OneAndAHalfChicken.exe
+D:\Projects\Tasks\OneAndAHalfChicken\bin\Debug\net6.0\OneAndAHalfChicken.deps.json
+D:\Projects\Tasks\OneAndAHalfChicken\bin\Debug\net6.0\OneAndAHalfChicken.runtimeconfig.json
+D:\Projects\Tasks\OneAndAHalfChicken\bin\Debug\net6.0\OneAndAHalfChicken.dll
+D:\Projects\Tasks\OneAndAHalfChicken\bin\Debug\net6.0\OneAndAHalfChicken.pdb
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\OneAndAHalfChicken.csproj.AssemblyReference.cache
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\OneAndAHalfChicken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\OneAndAHalfChicken.AssemblyInfoInputs.cache
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\OneAndAHalfChicken.AssemblyInfo.cs
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\OneAndAHalfChicken.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\OneAndAHalfChicken.dll
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\refint\OneAndAHalfChicken.dll
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\OneAndAHalfChicken.pdb
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\OneAndAHalfChicken.genruntimeconfig.cache
+D:\Projects\Tasks\OneAndAHalfChicken\obj\Debug\net6.0\ref\OneAndAHalfChicken.dll

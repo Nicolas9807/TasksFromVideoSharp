@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Classics\bin\Debug\net6.0\Classics.exe
+D:\Projects\Tasks\Classics\bin\Debug\net6.0\Classics.deps.json
+D:\Projects\Tasks\Classics\bin\Debug\net6.0\Classics.runtimeconfig.json
+D:\Projects\Tasks\Classics\bin\Debug\net6.0\Classics.dll
+D:\Projects\Tasks\Classics\bin\Debug\net6.0\Classics.pdb
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\Classics.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\Classics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\Classics.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\Classics.AssemblyInfo.cs
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\Classics.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\Classics.dll
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\refint\Classics.dll
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\Classics.pdb
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\Classics.genruntimeconfig.cache
+D:\Projects\Tasks\Classics\obj\Debug\net6.0\ref\Classics.dll

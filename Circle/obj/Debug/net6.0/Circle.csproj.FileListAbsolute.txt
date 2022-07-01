@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Circle\bin\Debug\net6.0\Circle.exe
+D:\Projects\Tasks\Circle\bin\Debug\net6.0\Circle.deps.json
+D:\Projects\Tasks\Circle\bin\Debug\net6.0\Circle.runtimeconfig.json
+D:\Projects\Tasks\Circle\bin\Debug\net6.0\Circle.dll
+D:\Projects\Tasks\Circle\bin\Debug\net6.0\Circle.pdb
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\Circle.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\Circle.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\Circle.AssemblyInfo.cs
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\Circle.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\Circle.dll
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\refint\Circle.dll
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\Circle.pdb
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\Circle.genruntimeconfig.cache
+D:\Projects\Tasks\Circle\obj\Debug\net6.0\ref\Circle.dll

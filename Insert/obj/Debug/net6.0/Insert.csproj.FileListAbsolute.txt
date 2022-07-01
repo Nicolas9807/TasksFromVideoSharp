@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Insert\bin\Debug\net6.0\Insert.exe
+D:\Projects\Tasks\Insert\bin\Debug\net6.0\Insert.deps.json
+D:\Projects\Tasks\Insert\bin\Debug\net6.0\Insert.runtimeconfig.json
+D:\Projects\Tasks\Insert\bin\Debug\net6.0\Insert.dll
+D:\Projects\Tasks\Insert\bin\Debug\net6.0\Insert.pdb
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\Insert.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\Insert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\Insert.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\Insert.AssemblyInfo.cs
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\Insert.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\Insert.dll
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\refint\Insert.dll
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\Insert.pdb
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\Insert.genruntimeconfig.cache
+D:\Projects\Tasks\Insert\obj\Debug\net6.0\ref\Insert.dll

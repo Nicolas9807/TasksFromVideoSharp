@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Bankirs\bin\Debug\net6.0\Bankirs.exe
+D:\Projects\Tasks\Bankirs\bin\Debug\net6.0\Bankirs.deps.json
+D:\Projects\Tasks\Bankirs\bin\Debug\net6.0\Bankirs.runtimeconfig.json
+D:\Projects\Tasks\Bankirs\bin\Debug\net6.0\Bankirs.dll
+D:\Projects\Tasks\Bankirs\bin\Debug\net6.0\Bankirs.pdb
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\Bankirs.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\Bankirs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\Bankirs.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\Bankirs.AssemblyInfo.cs
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\Bankirs.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\Bankirs.dll
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\refint\Bankirs.dll
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\Bankirs.pdb
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\Bankirs.genruntimeconfig.cache
+D:\Projects\Tasks\Bankirs\obj\Debug\net6.0\ref\Bankirs.dll

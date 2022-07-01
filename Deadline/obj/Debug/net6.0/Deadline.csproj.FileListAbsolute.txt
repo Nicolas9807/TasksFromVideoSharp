@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Deadline\bin\Debug\net6.0\Deadline.exe
+D:\Projects\Tasks\Deadline\bin\Debug\net6.0\Deadline.deps.json
+D:\Projects\Tasks\Deadline\bin\Debug\net6.0\Deadline.runtimeconfig.json
+D:\Projects\Tasks\Deadline\bin\Debug\net6.0\Deadline.dll
+D:\Projects\Tasks\Deadline\bin\Debug\net6.0\Deadline.pdb
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\Deadline.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\Deadline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\Deadline.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\Deadline.AssemblyInfo.cs
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\Deadline.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\Deadline.dll
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\refint\Deadline.dll
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\Deadline.pdb
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\Deadline.genruntimeconfig.cache
+D:\Projects\Tasks\Deadline\obj\Debug\net6.0\ref\Deadline.dll

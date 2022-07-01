@@ -1,0 +1,15 @@
+D:\Projects\Tasks\StartsWith-EndsWith\bin\Debug\net6.0\StartsWith-EndsWith.exe
+D:\Projects\Tasks\StartsWith-EndsWith\bin\Debug\net6.0\StartsWith-EndsWith.deps.json
+D:\Projects\Tasks\StartsWith-EndsWith\bin\Debug\net6.0\StartsWith-EndsWith.runtimeconfig.json
+D:\Projects\Tasks\StartsWith-EndsWith\bin\Debug\net6.0\StartsWith-EndsWith.dll
+D:\Projects\Tasks\StartsWith-EndsWith\bin\Debug\net6.0\StartsWith-EndsWith.pdb
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\StartsWith-EndsWith.csproj.AssemblyReference.cache
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\StartsWith-EndsWith.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\StartsWith-EndsWith.AssemblyInfoInputs.cache
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\StartsWith-EndsWith.AssemblyInfo.cs
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\StartsWith-EndsWith.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\StartsWith-EndsWith.dll
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\refint\StartsWith-EndsWith.dll
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\StartsWith-EndsWith.pdb
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\StartsWith-EndsWith.genruntimeconfig.cache
+D:\Projects\Tasks\StartsWith-EndsWith\obj\Debug\net6.0\ref\StartsWith-EndsWith.dll

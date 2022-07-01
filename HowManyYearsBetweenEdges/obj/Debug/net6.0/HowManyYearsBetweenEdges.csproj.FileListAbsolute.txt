@@ -1,0 +1,15 @@
+D:\Projects\Tasks\HowManyYearsBetweenEdges\bin\Debug\net6.0\HowManyYearsBetweenEdges.exe
+D:\Projects\Tasks\HowManyYearsBetweenEdges\bin\Debug\net6.0\HowManyYearsBetweenEdges.deps.json
+D:\Projects\Tasks\HowManyYearsBetweenEdges\bin\Debug\net6.0\HowManyYearsBetweenEdges.runtimeconfig.json
+D:\Projects\Tasks\HowManyYearsBetweenEdges\bin\Debug\net6.0\HowManyYearsBetweenEdges.dll
+D:\Projects\Tasks\HowManyYearsBetweenEdges\bin\Debug\net6.0\HowManyYearsBetweenEdges.pdb
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\HowManyYearsBetweenEdges.csproj.AssemblyReference.cache
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\HowManyYearsBetweenEdges.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\HowManyYearsBetweenEdges.AssemblyInfoInputs.cache
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\HowManyYearsBetweenEdges.AssemblyInfo.cs
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\HowManyYearsBetweenEdges.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\HowManyYearsBetweenEdges.dll
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\refint\HowManyYearsBetweenEdges.dll
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\HowManyYearsBetweenEdges.pdb
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\HowManyYearsBetweenEdges.genruntimeconfig.cache
+D:\Projects\Tasks\HowManyYearsBetweenEdges\obj\Debug\net6.0\ref\HowManyYearsBetweenEdges.dll

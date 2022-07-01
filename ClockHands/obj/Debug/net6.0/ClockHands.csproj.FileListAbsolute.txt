@@ -1,0 +1,15 @@
+D:\Projects\Tasks\ClockHands\bin\Debug\net6.0\ClockHands.exe
+D:\Projects\Tasks\ClockHands\bin\Debug\net6.0\ClockHands.deps.json
+D:\Projects\Tasks\ClockHands\bin\Debug\net6.0\ClockHands.runtimeconfig.json
+D:\Projects\Tasks\ClockHands\bin\Debug\net6.0\ClockHands.dll
+D:\Projects\Tasks\ClockHands\bin\Debug\net6.0\ClockHands.pdb
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ClockHands.csproj.AssemblyReference.cache
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ClockHands.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ClockHands.AssemblyInfoInputs.cache
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ClockHands.AssemblyInfo.cs
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ClockHands.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ClockHands.dll
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\refint\ClockHands.dll
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ClockHands.pdb
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ClockHands.genruntimeconfig.cache
+D:\Projects\Tasks\ClockHands\obj\Debug\net6.0\ref\ClockHands.dll

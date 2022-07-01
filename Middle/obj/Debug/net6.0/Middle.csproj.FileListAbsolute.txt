@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Middle\bin\Debug\net6.0\Middle.exe
+D:\Projects\Tasks\Middle\bin\Debug\net6.0\Middle.deps.json
+D:\Projects\Tasks\Middle\bin\Debug\net6.0\Middle.runtimeconfig.json
+D:\Projects\Tasks\Middle\bin\Debug\net6.0\Middle.dll
+D:\Projects\Tasks\Middle\bin\Debug\net6.0\Middle.pdb
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\Middle.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\Middle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\Middle.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\Middle.AssemblyInfo.cs
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\Middle.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\Middle.dll
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\refint\Middle.dll
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\Middle.pdb
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\Middle.genruntimeconfig.cache
+D:\Projects\Tasks\Middle\obj\Debug\net6.0\ref\Middle.dll

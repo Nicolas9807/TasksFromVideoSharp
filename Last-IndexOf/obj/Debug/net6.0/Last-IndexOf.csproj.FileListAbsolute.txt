@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Last-IndexOf\bin\Debug\net6.0\Last-IndexOf.exe
+D:\Projects\Tasks\Last-IndexOf\bin\Debug\net6.0\Last-IndexOf.deps.json
+D:\Projects\Tasks\Last-IndexOf\bin\Debug\net6.0\Last-IndexOf.runtimeconfig.json
+D:\Projects\Tasks\Last-IndexOf\bin\Debug\net6.0\Last-IndexOf.dll
+D:\Projects\Tasks\Last-IndexOf\bin\Debug\net6.0\Last-IndexOf.pdb
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\Last-IndexOf.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\Last-IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\Last-IndexOf.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\Last-IndexOf.AssemblyInfo.cs
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\Last-IndexOf.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\Last-IndexOf.dll
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\refint\Last-IndexOf.dll
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\Last-IndexOf.pdb
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\Last-IndexOf.genruntimeconfig.cache
+D:\Projects\Tasks\Last-IndexOf\obj\Debug\net6.0\ref\Last-IndexOf.dll

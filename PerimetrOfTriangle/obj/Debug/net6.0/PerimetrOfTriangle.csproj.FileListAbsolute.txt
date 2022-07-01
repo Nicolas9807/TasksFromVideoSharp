@@ -1,0 +1,15 @@
+D:\Projects\Tasks\PerimetrOfTriangle\bin\Debug\net6.0\PerimetrOfTriangle.exe
+D:\Projects\Tasks\PerimetrOfTriangle\bin\Debug\net6.0\PerimetrOfTriangle.deps.json
+D:\Projects\Tasks\PerimetrOfTriangle\bin\Debug\net6.0\PerimetrOfTriangle.runtimeconfig.json
+D:\Projects\Tasks\PerimetrOfTriangle\bin\Debug\net6.0\PerimetrOfTriangle.dll
+D:\Projects\Tasks\PerimetrOfTriangle\bin\Debug\net6.0\PerimetrOfTriangle.pdb
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\PerimetrOfTriangle.csproj.AssemblyReference.cache
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\PerimetrOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\PerimetrOfTriangle.AssemblyInfoInputs.cache
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\PerimetrOfTriangle.AssemblyInfo.cs
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\PerimetrOfTriangle.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\PerimetrOfTriangle.dll
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\refint\PerimetrOfTriangle.dll
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\PerimetrOfTriangle.pdb
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\PerimetrOfTriangle.genruntimeconfig.cache
+D:\Projects\Tasks\PerimetrOfTriangle\obj\Debug\net6.0\ref\PerimetrOfTriangle.dll

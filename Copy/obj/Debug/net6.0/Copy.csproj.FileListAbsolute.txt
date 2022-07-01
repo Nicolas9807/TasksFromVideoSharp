@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Copy\bin\Debug\net6.0\Copy.exe
+D:\Projects\Tasks\Copy\bin\Debug\net6.0\Copy.deps.json
+D:\Projects\Tasks\Copy\bin\Debug\net6.0\Copy.runtimeconfig.json
+D:\Projects\Tasks\Copy\bin\Debug\net6.0\Copy.dll
+D:\Projects\Tasks\Copy\bin\Debug\net6.0\Copy.pdb
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\Copy.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\Copy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\Copy.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\Copy.AssemblyInfo.cs
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\Copy.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\Copy.dll
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\refint\Copy.dll
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\Copy.pdb
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\Copy.genruntimeconfig.cache
+D:\Projects\Tasks\Copy\obj\Debug\net6.0\ref\Copy.dll

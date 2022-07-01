@@ -1,0 +1,15 @@
+D:\Projects\Tasks\SegmentLength\bin\Debug\net6.0\SegmentLength.exe
+D:\Projects\Tasks\SegmentLength\bin\Debug\net6.0\SegmentLength.deps.json
+D:\Projects\Tasks\SegmentLength\bin\Debug\net6.0\SegmentLength.runtimeconfig.json
+D:\Projects\Tasks\SegmentLength\bin\Debug\net6.0\SegmentLength.dll
+D:\Projects\Tasks\SegmentLength\bin\Debug\net6.0\SegmentLength.pdb
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\SegmentLength.csproj.AssemblyReference.cache
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\SegmentLength.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\SegmentLength.AssemblyInfoInputs.cache
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\SegmentLength.AssemblyInfo.cs
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\SegmentLength.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\SegmentLength.dll
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\refint\SegmentLength.dll
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\SegmentLength.pdb
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\SegmentLength.genruntimeconfig.cache
+D:\Projects\Tasks\SegmentLength\obj\Debug\net6.0\ref\SegmentLength.dll

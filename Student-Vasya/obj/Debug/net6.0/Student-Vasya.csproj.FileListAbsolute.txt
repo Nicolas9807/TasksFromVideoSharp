@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Student-Vasya\bin\Debug\net6.0\Student-Vasya.exe
+D:\Projects\Tasks\Student-Vasya\bin\Debug\net6.0\Student-Vasya.deps.json
+D:\Projects\Tasks\Student-Vasya\bin\Debug\net6.0\Student-Vasya.runtimeconfig.json
+D:\Projects\Tasks\Student-Vasya\bin\Debug\net6.0\Student-Vasya.dll
+D:\Projects\Tasks\Student-Vasya\bin\Debug\net6.0\Student-Vasya.pdb
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\Student-Vasya.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\Student-Vasya.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\Student-Vasya.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\Student-Vasya.AssemblyInfo.cs
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\Student-Vasya.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\Student-Vasya.dll
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\refint\Student-Vasya.dll
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\Student-Vasya.pdb
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\Student-Vasya.genruntimeconfig.cache
+D:\Projects\Tasks\Student-Vasya\obj\Debug\net6.0\ref\Student-Vasya.dll

@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Split\bin\Debug\net6.0\Split.exe
+D:\Projects\Tasks\Split\bin\Debug\net6.0\Split.deps.json
+D:\Projects\Tasks\Split\bin\Debug\net6.0\Split.runtimeconfig.json
+D:\Projects\Tasks\Split\bin\Debug\net6.0\Split.dll
+D:\Projects\Tasks\Split\bin\Debug\net6.0\Split.pdb
+D:\Projects\Tasks\Split\obj\Debug\net6.0\Split.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Split\obj\Debug\net6.0\Split.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Split\obj\Debug\net6.0\Split.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Split\obj\Debug\net6.0\Split.AssemblyInfo.cs
+D:\Projects\Tasks\Split\obj\Debug\net6.0\Split.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Split\obj\Debug\net6.0\Split.dll
+D:\Projects\Tasks\Split\obj\Debug\net6.0\refint\Split.dll
+D:\Projects\Tasks\Split\obj\Debug\net6.0\Split.pdb
+D:\Projects\Tasks\Split\obj\Debug\net6.0\Split.genruntimeconfig.cache
+D:\Projects\Tasks\Split\obj\Debug\net6.0\ref\Split.dll

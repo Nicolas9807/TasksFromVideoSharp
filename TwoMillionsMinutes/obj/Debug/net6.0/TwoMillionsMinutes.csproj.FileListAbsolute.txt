@@ -1,0 +1,15 @@
+D:\Projects\Tasks\TwoMillionsMinutes\bin\Debug\net6.0\TwoMillionsMinutes.exe
+D:\Projects\Tasks\TwoMillionsMinutes\bin\Debug\net6.0\TwoMillionsMinutes.deps.json
+D:\Projects\Tasks\TwoMillionsMinutes\bin\Debug\net6.0\TwoMillionsMinutes.runtimeconfig.json
+D:\Projects\Tasks\TwoMillionsMinutes\bin\Debug\net6.0\TwoMillionsMinutes.dll
+D:\Projects\Tasks\TwoMillionsMinutes\bin\Debug\net6.0\TwoMillionsMinutes.pdb
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\TwoMillionsMinutes.csproj.AssemblyReference.cache
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\TwoMillionsMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\TwoMillionsMinutes.AssemblyInfoInputs.cache
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\TwoMillionsMinutes.AssemblyInfo.cs
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\TwoMillionsMinutes.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\TwoMillionsMinutes.dll
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\refint\TwoMillionsMinutes.dll
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\TwoMillionsMinutes.pdb
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\TwoMillionsMinutes.genruntimeconfig.cache
+D:\Projects\Tasks\TwoMillionsMinutes\obj\Debug\net6.0\ref\TwoMillionsMinutes.dll

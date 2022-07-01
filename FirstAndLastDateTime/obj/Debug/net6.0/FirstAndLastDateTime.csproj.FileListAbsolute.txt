@@ -1,0 +1,15 @@
+D:\Projects\Tasks\FirstAndLastDateTime\bin\Debug\net6.0\FirstAndLastDateTime.exe
+D:\Projects\Tasks\FirstAndLastDateTime\bin\Debug\net6.0\FirstAndLastDateTime.deps.json
+D:\Projects\Tasks\FirstAndLastDateTime\bin\Debug\net6.0\FirstAndLastDateTime.runtimeconfig.json
+D:\Projects\Tasks\FirstAndLastDateTime\bin\Debug\net6.0\FirstAndLastDateTime.dll
+D:\Projects\Tasks\FirstAndLastDateTime\bin\Debug\net6.0\FirstAndLastDateTime.pdb
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\FirstAndLastDateTime.csproj.AssemblyReference.cache
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\FirstAndLastDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\FirstAndLastDateTime.AssemblyInfoInputs.cache
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\FirstAndLastDateTime.AssemblyInfo.cs
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\FirstAndLastDateTime.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\FirstAndLastDateTime.dll
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\refint\FirstAndLastDateTime.dll
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\FirstAndLastDateTime.pdb
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\FirstAndLastDateTime.genruntimeconfig.cache
+D:\Projects\Tasks\FirstAndLastDateTime\obj\Debug\net6.0\ref\FirstAndLastDateTime.dll

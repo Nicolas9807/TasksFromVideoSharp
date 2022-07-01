@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Kolya-arithmetic\bin\Debug\net6.0\Kolya-arithmetic.exe
+D:\Projects\Tasks\Kolya-arithmetic\bin\Debug\net6.0\Kolya-arithmetic.deps.json
+D:\Projects\Tasks\Kolya-arithmetic\bin\Debug\net6.0\Kolya-arithmetic.runtimeconfig.json
+D:\Projects\Tasks\Kolya-arithmetic\bin\Debug\net6.0\Kolya-arithmetic.dll
+D:\Projects\Tasks\Kolya-arithmetic\bin\Debug\net6.0\Kolya-arithmetic.pdb
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\Kolya-arithmetic.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\Kolya-arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\Kolya-arithmetic.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\Kolya-arithmetic.AssemblyInfo.cs
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\Kolya-arithmetic.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\Kolya-arithmetic.dll
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\refint\Kolya-arithmetic.dll
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\Kolya-arithmetic.pdb
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\Kolya-arithmetic.genruntimeconfig.cache
+D:\Projects\Tasks\Kolya-arithmetic\obj\Debug\net6.0\ref\Kolya-arithmetic.dll

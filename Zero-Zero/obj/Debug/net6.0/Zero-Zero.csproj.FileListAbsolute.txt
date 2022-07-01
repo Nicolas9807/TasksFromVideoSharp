@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Zero-Zero\bin\Debug\net6.0\Zero-Zero.exe
+D:\Projects\Tasks\Zero-Zero\bin\Debug\net6.0\Zero-Zero.deps.json
+D:\Projects\Tasks\Zero-Zero\bin\Debug\net6.0\Zero-Zero.runtimeconfig.json
+D:\Projects\Tasks\Zero-Zero\bin\Debug\net6.0\Zero-Zero.dll
+D:\Projects\Tasks\Zero-Zero\bin\Debug\net6.0\Zero-Zero.pdb
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\Zero-Zero.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\Zero-Zero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\Zero-Zero.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\Zero-Zero.AssemblyInfo.cs
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\Zero-Zero.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\Zero-Zero.dll
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\refint\Zero-Zero.dll
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\Zero-Zero.pdb
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\Zero-Zero.genruntimeconfig.cache
+D:\Projects\Tasks\Zero-Zero\obj\Debug\net6.0\ref\Zero-Zero.dll

@@ -1,0 +1,15 @@
+D:\Projects\Tasks\DoubleBirthday\bin\Debug\net6.0\DoubleBirthday.exe
+D:\Projects\Tasks\DoubleBirthday\bin\Debug\net6.0\DoubleBirthday.deps.json
+D:\Projects\Tasks\DoubleBirthday\bin\Debug\net6.0\DoubleBirthday.runtimeconfig.json
+D:\Projects\Tasks\DoubleBirthday\bin\Debug\net6.0\DoubleBirthday.dll
+D:\Projects\Tasks\DoubleBirthday\bin\Debug\net6.0\DoubleBirthday.pdb
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\DoubleBirthday.csproj.AssemblyReference.cache
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\DoubleBirthday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\DoubleBirthday.AssemblyInfoInputs.cache
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\DoubleBirthday.AssemblyInfo.cs
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\DoubleBirthday.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\DoubleBirthday.dll
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\refint\DoubleBirthday.dll
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\DoubleBirthday.pdb
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\DoubleBirthday.genruntimeconfig.cache
+D:\Projects\Tasks\DoubleBirthday\obj\Debug\net6.0\ref\DoubleBirthday.dll

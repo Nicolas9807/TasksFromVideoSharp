@@ -1,0 +1,15 @@
+D:\Projects\Tasks\LoveToDigits\bin\Debug\net6.0\LoveToDigits.exe
+D:\Projects\Tasks\LoveToDigits\bin\Debug\net6.0\LoveToDigits.deps.json
+D:\Projects\Tasks\LoveToDigits\bin\Debug\net6.0\LoveToDigits.runtimeconfig.json
+D:\Projects\Tasks\LoveToDigits\bin\Debug\net6.0\LoveToDigits.dll
+D:\Projects\Tasks\LoveToDigits\bin\Debug\net6.0\LoveToDigits.pdb
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\LoveToDigits.csproj.AssemblyReference.cache
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\LoveToDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\LoveToDigits.AssemblyInfoInputs.cache
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\LoveToDigits.AssemblyInfo.cs
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\LoveToDigits.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\LoveToDigits.dll
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\refint\LoveToDigits.dll
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\LoveToDigits.pdb
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\LoveToDigits.genruntimeconfig.cache
+D:\Projects\Tasks\LoveToDigits\obj\Debug\net6.0\ref\LoveToDigits.dll

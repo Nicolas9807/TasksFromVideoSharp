@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Video-Sharp\bin\Debug\net6.0\Video-Sharp.exe
+D:\Projects\Tasks\Video-Sharp\bin\Debug\net6.0\Video-Sharp.deps.json
+D:\Projects\Tasks\Video-Sharp\bin\Debug\net6.0\Video-Sharp.runtimeconfig.json
+D:\Projects\Tasks\Video-Sharp\bin\Debug\net6.0\Video-Sharp.dll
+D:\Projects\Tasks\Video-Sharp\bin\Debug\net6.0\Video-Sharp.pdb
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\Video-Sharp.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\Video-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\Video-Sharp.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\Video-Sharp.AssemblyInfo.cs
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\Video-Sharp.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\Video-Sharp.dll
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\refint\Video-Sharp.dll
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\Video-Sharp.pdb
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\Video-Sharp.genruntimeconfig.cache
+D:\Projects\Tasks\Video-Sharp\obj\Debug\net6.0\ref\Video-Sharp.dll

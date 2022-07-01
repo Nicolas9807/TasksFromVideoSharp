@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Tram\bin\Debug\net6.0\Tram.exe
+D:\Projects\Tasks\Tram\bin\Debug\net6.0\Tram.deps.json
+D:\Projects\Tasks\Tram\bin\Debug\net6.0\Tram.runtimeconfig.json
+D:\Projects\Tasks\Tram\bin\Debug\net6.0\Tram.dll
+D:\Projects\Tasks\Tram\bin\Debug\net6.0\Tram.pdb
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\Tram.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\Tram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\Tram.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\Tram.AssemblyInfo.cs
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\Tram.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\Tram.dll
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\refint\Tram.dll
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\Tram.pdb
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\Tram.genruntimeconfig.cache
+D:\Projects\Tasks\Tram\obj\Debug\net6.0\ref\Tram.dll

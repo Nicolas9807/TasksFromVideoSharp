@@ -1,0 +1,15 @@
+D:\Projects\Tasks\DateAndTime\bin\Debug\net6.0\DateAndTime.exe
+D:\Projects\Tasks\DateAndTime\bin\Debug\net6.0\DateAndTime.deps.json
+D:\Projects\Tasks\DateAndTime\bin\Debug\net6.0\DateAndTime.runtimeconfig.json
+D:\Projects\Tasks\DateAndTime\bin\Debug\net6.0\DateAndTime.dll
+D:\Projects\Tasks\DateAndTime\bin\Debug\net6.0\DateAndTime.pdb
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\DateAndTime.csproj.AssemblyReference.cache
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\DateAndTime.AssemblyInfoInputs.cache
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\DateAndTime.AssemblyInfo.cs
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\DateAndTime.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\DateAndTime.dll
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\refint\DateAndTime.dll
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\DateAndTime.pdb
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\DateAndTime.genruntimeconfig.cache
+D:\Projects\Tasks\DateAndTime\obj\Debug\net6.0\ref\DateAndTime.dll

@@ -1,0 +1,15 @@
+D:\Projects\Tasks\DateSort\bin\Debug\net6.0\DateSort.exe
+D:\Projects\Tasks\DateSort\bin\Debug\net6.0\DateSort.deps.json
+D:\Projects\Tasks\DateSort\bin\Debug\net6.0\DateSort.runtimeconfig.json
+D:\Projects\Tasks\DateSort\bin\Debug\net6.0\DateSort.dll
+D:\Projects\Tasks\DateSort\bin\Debug\net6.0\DateSort.pdb
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\DateSort.csproj.AssemblyReference.cache
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\DateSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\DateSort.AssemblyInfoInputs.cache
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\DateSort.AssemblyInfo.cs
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\DateSort.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\DateSort.dll
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\refint\DateSort.dll
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\DateSort.pdb
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\DateSort.genruntimeconfig.cache
+D:\Projects\Tasks\DateSort\obj\Debug\net6.0\ref\DateSort.dll

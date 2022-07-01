@@ -1,0 +1,15 @@
+D:\Projects\Tasks\NLessons\bin\Debug\net6.0\NLessons.exe
+D:\Projects\Tasks\NLessons\bin\Debug\net6.0\NLessons.deps.json
+D:\Projects\Tasks\NLessons\bin\Debug\net6.0\NLessons.runtimeconfig.json
+D:\Projects\Tasks\NLessons\bin\Debug\net6.0\NLessons.dll
+D:\Projects\Tasks\NLessons\bin\Debug\net6.0\NLessons.pdb
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\NLessons.csproj.AssemblyReference.cache
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\NLessons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\NLessons.AssemblyInfoInputs.cache
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\NLessons.AssemblyInfo.cs
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\NLessons.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\NLessons.dll
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\refint\NLessons.dll
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\NLessons.pdb
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\NLessons.genruntimeconfig.cache
+D:\Projects\Tasks\NLessons\obj\Debug\net6.0\ref\NLessons.dll

@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Shtirlitz\bin\Debug\net6.0\Shtirlitz.exe
+D:\Projects\Tasks\Shtirlitz\bin\Debug\net6.0\Shtirlitz.deps.json
+D:\Projects\Tasks\Shtirlitz\bin\Debug\net6.0\Shtirlitz.runtimeconfig.json
+D:\Projects\Tasks\Shtirlitz\bin\Debug\net6.0\Shtirlitz.dll
+D:\Projects\Tasks\Shtirlitz\bin\Debug\net6.0\Shtirlitz.pdb
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\Shtirlitz.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\Shtirlitz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\Shtirlitz.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\Shtirlitz.AssemblyInfo.cs
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\Shtirlitz.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\Shtirlitz.dll
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\refint\Shtirlitz.dll
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\Shtirlitz.pdb
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\Shtirlitz.genruntimeconfig.cache
+D:\Projects\Tasks\Shtirlitz\obj\Debug\net6.0\ref\Shtirlitz.dll

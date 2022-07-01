@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Trim-Start-End\bin\Debug\net6.0\Trim-Start-End.exe
+D:\Projects\Tasks\Trim-Start-End\bin\Debug\net6.0\Trim-Start-End.deps.json
+D:\Projects\Tasks\Trim-Start-End\bin\Debug\net6.0\Trim-Start-End.runtimeconfig.json
+D:\Projects\Tasks\Trim-Start-End\bin\Debug\net6.0\Trim-Start-End.dll
+D:\Projects\Tasks\Trim-Start-End\bin\Debug\net6.0\Trim-Start-End.pdb
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\Trim-Start-End.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\Trim-Start-End.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\Trim-Start-End.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\Trim-Start-End.AssemblyInfo.cs
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\Trim-Start-End.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\Trim-Start-End.dll
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\refint\Trim-Start-End.dll
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\Trim-Start-End.pdb
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\Trim-Start-End.genruntimeconfig.cache
+D:\Projects\Tasks\Trim-Start-End\obj\Debug\net6.0\ref\Trim-Start-End.dll

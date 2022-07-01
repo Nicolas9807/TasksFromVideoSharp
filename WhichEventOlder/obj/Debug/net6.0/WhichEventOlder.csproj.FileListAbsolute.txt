@@ -1,0 +1,15 @@
+D:\Projects\Tasks\WhichEventOlder\bin\Debug\net6.0\WhichEventOlder.exe
+D:\Projects\Tasks\WhichEventOlder\bin\Debug\net6.0\WhichEventOlder.deps.json
+D:\Projects\Tasks\WhichEventOlder\bin\Debug\net6.0\WhichEventOlder.runtimeconfig.json
+D:\Projects\Tasks\WhichEventOlder\bin\Debug\net6.0\WhichEventOlder.dll
+D:\Projects\Tasks\WhichEventOlder\bin\Debug\net6.0\WhichEventOlder.pdb
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\WhichEventOlder.csproj.AssemblyReference.cache
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\WhichEventOlder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\WhichEventOlder.AssemblyInfoInputs.cache
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\WhichEventOlder.AssemblyInfo.cs
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\WhichEventOlder.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\WhichEventOlder.dll
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\refint\WhichEventOlder.dll
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\WhichEventOlder.pdb
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\WhichEventOlder.genruntimeconfig.cache
+D:\Projects\Tasks\WhichEventOlder\obj\Debug\net6.0\ref\WhichEventOlder.dll

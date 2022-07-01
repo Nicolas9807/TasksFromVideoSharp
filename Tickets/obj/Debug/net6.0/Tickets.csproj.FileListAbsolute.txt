@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Tickets\bin\Debug\net6.0\Tickets.exe
+D:\Projects\Tasks\Tickets\bin\Debug\net6.0\Tickets.deps.json
+D:\Projects\Tasks\Tickets\bin\Debug\net6.0\Tickets.runtimeconfig.json
+D:\Projects\Tasks\Tickets\bin\Debug\net6.0\Tickets.dll
+D:\Projects\Tasks\Tickets\bin\Debug\net6.0\Tickets.pdb
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\Tickets.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\Tickets.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\Tickets.AssemblyInfo.cs
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\Tickets.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\Tickets.dll
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\refint\Tickets.dll
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\Tickets.pdb
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\Tickets.genruntimeconfig.cache
+D:\Projects\Tasks\Tickets\obj\Debug\net6.0\ref\Tickets.dll

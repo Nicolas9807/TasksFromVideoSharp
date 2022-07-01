@@ -1,0 +1,15 @@
+D:\Projects\Tasks\HowManyTimePassed\bin\Debug\net6.0\HowManyTimePassed.exe
+D:\Projects\Tasks\HowManyTimePassed\bin\Debug\net6.0\HowManyTimePassed.deps.json
+D:\Projects\Tasks\HowManyTimePassed\bin\Debug\net6.0\HowManyTimePassed.runtimeconfig.json
+D:\Projects\Tasks\HowManyTimePassed\bin\Debug\net6.0\HowManyTimePassed.dll
+D:\Projects\Tasks\HowManyTimePassed\bin\Debug\net6.0\HowManyTimePassed.pdb
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\HowManyTimePassed.csproj.AssemblyReference.cache
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\HowManyTimePassed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\HowManyTimePassed.AssemblyInfoInputs.cache
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\HowManyTimePassed.AssemblyInfo.cs
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\HowManyTimePassed.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\HowManyTimePassed.dll
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\refint\HowManyTimePassed.dll
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\HowManyTimePassed.pdb
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\HowManyTimePassed.genruntimeconfig.cache
+D:\Projects\Tasks\HowManyTimePassed\obj\Debug\net6.0\ref\HowManyTimePassed.dll

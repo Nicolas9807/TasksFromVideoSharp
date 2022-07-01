@@ -1,0 +1,15 @@
+D:\Projects\Tasks\CodeOfWord\bin\Debug\net6.0\CodeOfWord.exe
+D:\Projects\Tasks\CodeOfWord\bin\Debug\net6.0\CodeOfWord.deps.json
+D:\Projects\Tasks\CodeOfWord\bin\Debug\net6.0\CodeOfWord.runtimeconfig.json
+D:\Projects\Tasks\CodeOfWord\bin\Debug\net6.0\CodeOfWord.dll
+D:\Projects\Tasks\CodeOfWord\bin\Debug\net6.0\CodeOfWord.pdb
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\CodeOfWord.csproj.AssemblyReference.cache
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\CodeOfWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\CodeOfWord.AssemblyInfoInputs.cache
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\CodeOfWord.AssemblyInfo.cs
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\CodeOfWord.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\CodeOfWord.dll
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\refint\CodeOfWord.dll
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\CodeOfWord.pdb
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\CodeOfWord.genruntimeconfig.cache
+D:\Projects\Tasks\CodeOfWord\obj\Debug\net6.0\ref\CodeOfWord.dll

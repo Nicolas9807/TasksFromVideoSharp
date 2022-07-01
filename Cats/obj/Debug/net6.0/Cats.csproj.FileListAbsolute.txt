@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Cats\bin\Debug\net6.0\Cats.exe
+D:\Projects\Tasks\Cats\bin\Debug\net6.0\Cats.deps.json
+D:\Projects\Tasks\Cats\bin\Debug\net6.0\Cats.runtimeconfig.json
+D:\Projects\Tasks\Cats\bin\Debug\net6.0\Cats.dll
+D:\Projects\Tasks\Cats\bin\Debug\net6.0\Cats.pdb
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\Cats.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\Cats.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\Cats.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\Cats.AssemblyInfo.cs
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\Cats.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\Cats.dll
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\refint\Cats.dll
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\Cats.pdb
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\Cats.genruntimeconfig.cache
+D:\Projects\Tasks\Cats\obj\Debug\net6.0\ref\Cats.dll

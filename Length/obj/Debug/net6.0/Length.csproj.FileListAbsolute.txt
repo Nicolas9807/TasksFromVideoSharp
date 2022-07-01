@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Length\bin\Debug\net6.0\Length.exe
+D:\Projects\Tasks\Length\bin\Debug\net6.0\Length.deps.json
+D:\Projects\Tasks\Length\bin\Debug\net6.0\Length.runtimeconfig.json
+D:\Projects\Tasks\Length\bin\Debug\net6.0\Length.dll
+D:\Projects\Tasks\Length\bin\Debug\net6.0\Length.pdb
+D:\Projects\Tasks\Length\obj\Debug\net6.0\Length.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Length\obj\Debug\net6.0\Length.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Length\obj\Debug\net6.0\Length.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Length\obj\Debug\net6.0\Length.AssemblyInfo.cs
+D:\Projects\Tasks\Length\obj\Debug\net6.0\Length.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Length\obj\Debug\net6.0\Length.dll
+D:\Projects\Tasks\Length\obj\Debug\net6.0\refint\Length.dll
+D:\Projects\Tasks\Length\obj\Debug\net6.0\Length.pdb
+D:\Projects\Tasks\Length\obj\Debug\net6.0\Length.genruntimeconfig.cache
+D:\Projects\Tasks\Length\obj\Debug\net6.0\ref\Length.dll

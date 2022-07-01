@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Michael\bin\Debug\net6.0\Michael.exe
+D:\Projects\Tasks\Michael\bin\Debug\net6.0\Michael.deps.json
+D:\Projects\Tasks\Michael\bin\Debug\net6.0\Michael.runtimeconfig.json
+D:\Projects\Tasks\Michael\bin\Debug\net6.0\Michael.dll
+D:\Projects\Tasks\Michael\bin\Debug\net6.0\Michael.pdb
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\Michael.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\Michael.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\Michael.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\Michael.AssemblyInfo.cs
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\Michael.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\Michael.dll
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\refint\Michael.dll
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\Michael.pdb
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\Michael.genruntimeconfig.cache
+D:\Projects\Tasks\Michael\obj\Debug\net6.0\ref\Michael.dll

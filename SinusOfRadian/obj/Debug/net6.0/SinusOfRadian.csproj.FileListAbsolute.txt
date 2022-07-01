@@ -1,0 +1,15 @@
+D:\Projects\Tasks\SinusOfRadian\bin\Debug\net6.0\SinusOfRadian.exe
+D:\Projects\Tasks\SinusOfRadian\bin\Debug\net6.0\SinusOfRadian.deps.json
+D:\Projects\Tasks\SinusOfRadian\bin\Debug\net6.0\SinusOfRadian.runtimeconfig.json
+D:\Projects\Tasks\SinusOfRadian\bin\Debug\net6.0\SinusOfRadian.dll
+D:\Projects\Tasks\SinusOfRadian\bin\Debug\net6.0\SinusOfRadian.pdb
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\SinusOfRadian.csproj.AssemblyReference.cache
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\SinusOfRadian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\SinusOfRadian.AssemblyInfoInputs.cache
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\SinusOfRadian.AssemblyInfo.cs
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\SinusOfRadian.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\SinusOfRadian.dll
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\refint\SinusOfRadian.dll
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\SinusOfRadian.pdb
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\SinusOfRadian.genruntimeconfig.cache
+D:\Projects\Tasks\SinusOfRadian\obj\Debug\net6.0\ref\SinusOfRadian.dll

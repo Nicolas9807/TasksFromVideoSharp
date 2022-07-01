@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Garden\bin\Debug\net6.0\Garden.exe
+D:\Projects\Tasks\Garden\bin\Debug\net6.0\Garden.deps.json
+D:\Projects\Tasks\Garden\bin\Debug\net6.0\Garden.runtimeconfig.json
+D:\Projects\Tasks\Garden\bin\Debug\net6.0\Garden.dll
+D:\Projects\Tasks\Garden\bin\Debug\net6.0\Garden.pdb
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\Garden.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\Garden.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\Garden.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\Garden.AssemblyInfo.cs
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\Garden.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\Garden.dll
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\refint\Garden.dll
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\Garden.pdb
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\Garden.genruntimeconfig.cache
+D:\Projects\Tasks\Garden\obj\Debug\net6.0\ref\Garden.dll

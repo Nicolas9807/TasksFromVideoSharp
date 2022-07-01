@@ -1,0 +1,15 @@
+D:\Projects\Tasks\ChickenAndEggs\bin\Debug\net6.0\ChickenAndEggs.exe
+D:\Projects\Tasks\ChickenAndEggs\bin\Debug\net6.0\ChickenAndEggs.deps.json
+D:\Projects\Tasks\ChickenAndEggs\bin\Debug\net6.0\ChickenAndEggs.runtimeconfig.json
+D:\Projects\Tasks\ChickenAndEggs\bin\Debug\net6.0\ChickenAndEggs.dll
+D:\Projects\Tasks\ChickenAndEggs\bin\Debug\net6.0\ChickenAndEggs.pdb
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ChickenAndEggs.csproj.AssemblyReference.cache
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ChickenAndEggs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ChickenAndEggs.AssemblyInfoInputs.cache
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ChickenAndEggs.AssemblyInfo.cs
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ChickenAndEggs.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ChickenAndEggs.dll
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\refint\ChickenAndEggs.dll
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ChickenAndEggs.pdb
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ChickenAndEggs.genruntimeconfig.cache
+D:\Projects\Tasks\ChickenAndEggs\obj\Debug\net6.0\ref\ChickenAndEggs.dll

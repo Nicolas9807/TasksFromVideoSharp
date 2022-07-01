@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Arithmetic\bin\Debug\net6.0\Arithmetic.exe
+D:\Projects\Tasks\Arithmetic\bin\Debug\net6.0\Arithmetic.deps.json
+D:\Projects\Tasks\Arithmetic\bin\Debug\net6.0\Arithmetic.runtimeconfig.json
+D:\Projects\Tasks\Arithmetic\bin\Debug\net6.0\Arithmetic.dll
+D:\Projects\Tasks\Arithmetic\bin\Debug\net6.0\Arithmetic.pdb
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfo.cs
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\Arithmetic.dll
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\refint\Arithmetic.dll
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\Arithmetic.pdb
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\Arithmetic.genruntimeconfig.cache
+D:\Projects\Tasks\Arithmetic\obj\Debug\net6.0\ref\Arithmetic.dll

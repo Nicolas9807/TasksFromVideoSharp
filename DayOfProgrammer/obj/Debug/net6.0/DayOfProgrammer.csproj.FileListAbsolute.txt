@@ -1,0 +1,15 @@
+D:\Projects\Tasks\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.exe
+D:\Projects\Tasks\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.deps.json
+D:\Projects\Tasks\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.runtimeconfig.json
+D:\Projects\Tasks\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.dll
+D:\Projects\Tasks\DayOfProgrammer\bin\Debug\net6.0\DayOfProgrammer.pdb
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.csproj.AssemblyReference.cache
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.AssemblyInfoInputs.cache
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.AssemblyInfo.cs
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.dll
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\refint\DayOfProgrammer.dll
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.pdb
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\DayOfProgrammer.genruntimeconfig.cache
+D:\Projects\Tasks\DayOfProgrammer\obj\Debug\net6.0\ref\DayOfProgrammer.dll

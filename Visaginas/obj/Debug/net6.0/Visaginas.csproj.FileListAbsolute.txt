@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Visaginas\bin\Debug\net6.0\Visaginas.exe
+D:\Projects\Tasks\Visaginas\bin\Debug\net6.0\Visaginas.deps.json
+D:\Projects\Tasks\Visaginas\bin\Debug\net6.0\Visaginas.runtimeconfig.json
+D:\Projects\Tasks\Visaginas\bin\Debug\net6.0\Visaginas.dll
+D:\Projects\Tasks\Visaginas\bin\Debug\net6.0\Visaginas.pdb
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\Visaginas.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\Visaginas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\Visaginas.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\Visaginas.AssemblyInfo.cs
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\Visaginas.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\Visaginas.dll
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\refint\Visaginas.dll
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\Visaginas.pdb
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\Visaginas.genruntimeconfig.cache
+D:\Projects\Tasks\Visaginas\obj\Debug\net6.0\ref\Visaginas.dll

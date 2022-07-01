@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Misprints\bin\Debug\net6.0\Misprints.exe
+D:\Projects\Tasks\Misprints\bin\Debug\net6.0\Misprints.deps.json
+D:\Projects\Tasks\Misprints\bin\Debug\net6.0\Misprints.runtimeconfig.json
+D:\Projects\Tasks\Misprints\bin\Debug\net6.0\Misprints.dll
+D:\Projects\Tasks\Misprints\bin\Debug\net6.0\Misprints.pdb
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\Misprints.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\Misprints.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\Misprints.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\Misprints.AssemblyInfo.cs
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\Misprints.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\Misprints.dll
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\refint\Misprints.dll
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\Misprints.pdb
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\Misprints.genruntimeconfig.cache
+D:\Projects\Tasks\Misprints\obj\Debug\net6.0\ref\Misprints.dll

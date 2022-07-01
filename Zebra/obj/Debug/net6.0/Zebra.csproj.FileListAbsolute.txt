@@ -1,0 +1,15 @@
+D:\Projects\Tasks\Zebra\bin\Debug\net6.0\Zebra.exe
+D:\Projects\Tasks\Zebra\bin\Debug\net6.0\Zebra.deps.json
+D:\Projects\Tasks\Zebra\bin\Debug\net6.0\Zebra.runtimeconfig.json
+D:\Projects\Tasks\Zebra\bin\Debug\net6.0\Zebra.dll
+D:\Projects\Tasks\Zebra\bin\Debug\net6.0\Zebra.pdb
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\Zebra.csproj.AssemblyReference.cache
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\Zebra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\Zebra.AssemblyInfoInputs.cache
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\Zebra.AssemblyInfo.cs
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\Zebra.csproj.CoreCompileInputs.cache
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\Zebra.dll
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\refint\Zebra.dll
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\Zebra.pdb
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\Zebra.genruntimeconfig.cache
+D:\Projects\Tasks\Zebra\obj\Debug\net6.0\ref\Zebra.dll
